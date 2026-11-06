@@ -1,2 +1,7 @@
 # RunningGame
-用unity3d实现的简单跑酷游戏，素材网上扒的
+
+**English (primary)** | [简体中文](README.zh-CN.md)
+
+A simple 2D running game built with Unity. The original project notes that its assets were sourced online.
+
+The repository includes the Unity project, `Infinite_run.sln`, and Windows and Android builds. See [LICENSE](LICENSE) for the repository's license terms; the README does not document individual asset sources.
